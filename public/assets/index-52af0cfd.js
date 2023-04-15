@@ -1947,9 +1947,8 @@ function ls(e, t, n) {
     title: r
   }
   = t;
-//  const s = () =>{
-//    window.open('https://github.com/hideipnetwork/', '_blank')
-//  };
+  const s = () =>{
+  };
   return e.$$set = i=>{
     'title' in i && n(0, r = i.title)
   },
