@@ -1947,9 +1947,9 @@ function ls(e, t, n) {
     title: r
   }
   = t;
-  const s = () =>{
-    window.open('https://github.com/hideipnetwork/', '_blank')
-  };
+//  const s = () =>{
+//    window.open('https://github.com/hideipnetwork/', '_blank')
+//  };
   return e.$$set = i=>{
     'title' in i && n(0, r = i.title)
   },
@@ -2486,7 +2486,7 @@ function cs(e) {
   F;
   s = new as({
     props: {
-      title: 'HNet Web'
+      title: 'Enjoy Web'
     }
   });
   let O = e[2] !== '' && Ot(e),
